@@ -1,0 +1,33 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    always_declare_return_types: true
+    always_put_control_body_on_new_line: true
+    always_specify_types: true
+    annotate_overrides: true
+    avoid_print: true
+    avoid_return_types_on_setters: true
+    avoid_types_on_closure_parameters: false
+    camel_case_types: true
+    constant_identifier_names: false
+    control_flow_in_finally: true
+    empty_catches: false
+    file_names: true
+    hash_and_equals: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_final_fields: true
+    prefer_final_locals: true
+    prefer_single_quotes: true
+    sort_constructors_first: true
+    type_annotate_public_apis: true
+    unnecessary_brace_in_string_interps: true
+    unnecessary_lambdas: true
+    unnecessary_new: true
+    unnecessary_this: true
+    use_full_hex_values_for_flutter_colors: true
+    use_key_in_widget_constructors: true
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options

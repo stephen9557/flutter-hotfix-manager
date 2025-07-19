@@ -1,0 +1,1 @@
+{"appVersion":"1.0.0","userId":"test_user","channels":["beta","stable"],"region":"CN","cacheDir":"test_assets/cache","trustedDomains":["localhost","127.0.0.1","test.example.com"],"maxFileSize":1048576,"supportedTypes":["jsScript","dartAot"]}
